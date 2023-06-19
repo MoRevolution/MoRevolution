@@ -15,6 +15,8 @@ I&rsquo;m an Engineering Physics student at Augustana College. I enjoy solvingch
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="25" height="25" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="kafka" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="25" height="25" />
+
 </p>
 
 <details>
