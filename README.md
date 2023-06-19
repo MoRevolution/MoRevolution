@@ -1,6 +1,6 @@
 ## Hi there, I'm Motti 👋
 
-I&rsquo;m an Engineering Physics student at Augustana College. I enjoy solvingchallenging problems that exist in the realm where software, AI, and robotics converge.
+I&rsquo;m an Engineering Physics student at Augustana College. I enjoy solving challenging problems that exist in the realm where software, AI, and robotics converge.
 
 - I'm currently working as Data Analyst for [Augustana's Institutional Research][Augustana's Institutional Research].
 - I also work under professor Labiba Jahan researching the applications of [NLP in the social sciences][NLP in the social sciences].
