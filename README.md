@@ -25,6 +25,6 @@ I&rsquo;m an Engineering Physics student at Augustana College. I enjoy solving c
   </p>
 </details>
 
-[Augustana's Institutional Research]: https://github.com/NLP-in-the-Social-Sciences
+[Augustana's Institutional Research]: https://www.augustana.edu/academics/institutional-research
 [NLP in the social sciences]: https://github.com/NLP-in-the-Social-Sciences
 [Lego]: https://github.com/MoRevolution/RobotArtDemo.git
