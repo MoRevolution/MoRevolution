@@ -1,4 +1,4 @@
-## Hi there, I'm Motti 👋
+## Hi there 👋, I'm Motti 
 
 I&rsquo;m an Engineering Physics student at Augustana College. I enjoy solving challenging problems that exist in the realm where software, AI, and robotics converge.
 
