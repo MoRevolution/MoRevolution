@@ -2,9 +2,8 @@
 
 I&rsquo;m an Engineering Physics student at Augustana College. I enjoy solving challenging problems that exist in the realm where software, AI, and robotics converge.
 
-- I'm currently working as Data Analyst for [Augustana's Institutional Research][Augustana's Institutional Research].
+- I'm currently working as Data Analyst for [Augustana's Institutional Research][Augustana's Institutional Research] and John Deere (both are part-time).
 - I also work under professor Labiba Jahan researching the applications of [NLP in the social sciences][NLP in the social sciences].
-- I am developing a movement library for [Lego Mindstorms][Lego] that uses Ev3dev(Python) to draw user specified images.
 
 ### Languages and Tools
 
