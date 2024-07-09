@@ -1,8 +1,8 @@
 ## Hi there, I'm Motti 👋 
 
-I&rsquo;m an Engineering Physics student at Augustana College. I enjoy solving challenging problems that exist in the realm where software, AI, and robotics converge.
+I&rsquo;m a junior at WashU completeing my B.S. and M.S. in Data Science. I enjoy solving challenging problems that exist in the realm where software, AI/ML infra, and robotics converge, but I've been doing a lot in scaling ML and data infra recently. 
 
-- I'm currently working as Data Analyst for [Augustana's Institutional Research][Augustana's Institutional Research] and John Deere (both are part-time).
+- I'm currently a Data Engineering Intern at Northern Trust and I work Data Analyst at John Deere (part-time) as well.
 - I also work under professor Labiba Jahan researching the applications of [NLP in the social sciences][NLP in the social sciences].
 
 ### Languages and Tools
