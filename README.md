@@ -1,9 +1,9 @@
 ## Hi there, I'm Motti 👋 
 
-I&rsquo;m a junior at WashU completeing my B.S. and M.S. in Data Science. I enjoy solving challenging problems that exist in the realm where software, AI/ML infra, and robotics converge, but I've been doing a lot in scaling ML and data infra recently. 
+I&rsquo;m a junior at WashU completeing my B.S. in Data Science.
 
-- I work as Data Analyst at John Deere (part-time).
-- I also work under professor Labiba Jahan researching the applications of [NLP in the social sciences][NLP in the social sciences].
+- Data Analyst/Data Engineer at John Deere (part-time).
+- [SocialNLP research](https://github.com/NLP-in-the-Social-Sciences) under [Dr.Labiba Jahan](https://www.smu.edu/lyle/departments/cs/people/faculty/labiba-jahan) on the side, but I'm currently on a short sabbatical.
 
 ### Languages and Tools
 
