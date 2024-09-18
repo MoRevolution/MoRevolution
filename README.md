@@ -2,7 +2,7 @@
 
 I&rsquo;m a junior at WashU completing my B.S. in Data Science.
 
-- Data Analyst/Data Engineer at John Deere (part-time). Formerly at Nortern Trust
+- Data Analyst/Data Engineer at John Deere (part-time). Formerly at Northern Trust
 - [SocialNLP research](https://github.com/NLP-in-the-Social-Sciences) under [Dr.Labiba Jahan](https://www.smu.edu/lyle/departments/cs/people/faculty/labiba-jahan), but I'm currently on a short sabbatical.
 
 ### Languages and Tools
