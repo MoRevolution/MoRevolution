@@ -1,9 +1,9 @@
 ## Hi there, I'm Motti 👋 
 
-I&rsquo;m a junior at WashU completing my B.S. in Data Science and M.S. in Computer Science (field of study is tbd).
+I'm a junior at [WashU](), studying Data Science and continuing to a 1-year Master's in Computer Science (specific focus TBD).
 
 - Data Analyst/Data Engineer at John Deere (part-time). Formerly at Northern Trust
-- [SocialNLP research](https://github.com/NLP-in-the-Social-Sciences) under [Dr.Labiba Jahan](https://www.smu.edu/lyle/departments/cs/people/faculty/labiba-jahan), but I'm currently on a short sabbatical.
+- [SocialNLP research]() under [Dr.Labiba Jahan](), but I'm currently on a short sabbatical.
 
 ### Languages and Tools
 
@@ -28,6 +28,8 @@ I&rsquo;m a junior at WashU completing my B.S. in Data Science and M.S. in Compu
   </p>
 </details>
 
+[Dr.Labiba Jahan]: https://www.smu.edu/lyle/departments/cs/people/faculty/labiba-jahan
 [Augustana's Institutional Research]: https://www.augustana.edu/academics/institutional-research
 [NLP in the social sciences]: https://github.com/NLP-in-the-Social-Sciences
 [Lego]: https://github.com/MoRevolution/RobotArtDemo.git
+[WashU]: https://www.google.com/search?q=washu
