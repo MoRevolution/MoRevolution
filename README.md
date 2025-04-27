@@ -1,9 +1,11 @@
 ## Hi there, I'm Motti 👋 
 
-I'm a junior at [WashU](), studying Data Science and continuing to a 1-year Master's in Computer Science (specific focus TBD).
+🎓 Junior @ [WashU](https://www.google.com/search?q=washu) | Analytics @Deere & Incoming Intern @Microsoft (Xbox Analytics Infra & ML)
 
-- Data Analyst/Data Engineer at John Deere (part-time). Formerly at Northern Trust
-- [SocialNLP research]() under [Dr.Labiba Jahan](), but I'm currently on a short sabbatical.
+Outside of work and school, I love:
+- 🧗‍♂️ Climbing (bouldering and sport)
+- 🚲 Biking around on my old Raleigh Technium
+- 📚 Reading — mostly philosophical fiction
 
 ### Languages and Tools
 
