@@ -3,7 +3,7 @@
 🎓 Junior @ [WashU](https://www.google.com/search?q=washu) | Analytics @Deere & Incoming Intern @Microsoft (Xbox Analytics Infra & ML)
 
 Outside of work and school, I love:
-- 🧗‍♂️ Climbing (bouldering and sport)
+- 🧗‍♂️ Bouldering
 - 🚲 Biking around on my old Raleigh Technium
 - 📚 Reading — mostly philosophical fiction
 
