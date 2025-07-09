@@ -2,6 +2,15 @@
 
 🎓 Junior @ [WashU](https://www.google.com/search?q=washu) | Analytics @ Deere | Dev Tools @ Xbox
 
+Outside of work and school, I love:
+
+- 🧗‍♂️ Bouldering (wrong emoji, I know)
+
+- 🚲 Biking around on my old Raleigh Technium
+
+- 📚 Reading — mostly philosophical fiction
+
+
 ### Languages and Tools
 
 <p align="left">
