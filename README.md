@@ -1,6 +1,6 @@
 ## Hi there, I'm Motti 👋 
 
-🎓 Junior @ [WashU](https://www.google.com/search?q=washu) | Analytics @ Deere | Dev Tools @ Xbox
+🎓 Junior @ [WashU](https://www.google.com/search?q=washu) | Analytics @ Deere + Dev Tools @ Xbox
 
 Outside of work and school, I love:
 
