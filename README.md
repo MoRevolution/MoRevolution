@@ -1,14 +1,8 @@
 ## Hi there, I'm Motti 👋 
 
-🎓 Junior @ [WashU](https://www.google.com/search?q=washu) | Analytics @ Deere + Dev Tools @ Xbox
+🎓 Junior @ [WashU](https://www.google.com/search?q=washu) | Dev Tools @ Xbox, Analytics @ Deere
 
-Outside of work and school, I love:
-
-- 🧗‍♂️ Bouldering (wrong emoji, I know)
-
-- 🚲 Biking around on my old Raleigh Technium
-
-- 📚 Reading — mostly philosophical fiction
+Outside of work and school, I spend my time bouldering, biking on my old Raleigh Technium, and reading philosophical fiction.
 
 
 ### Languages and Tools
