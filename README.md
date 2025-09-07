@@ -1,6 +1,6 @@
 ## Hi there, I'm Motti 👋 
 
-🎓 Junior @ [WashU](https://www.google.com/search?q=washu) | Dev Tools @ Xbox, Analytics @ Deere
+🎓 Senior @ [WashU](https://www.google.com/search?q=washu) | Dev Tools @ Xbox, Analytics @ Deere
 
 Outside of work and school, I spend my time bouldering, biking on my old Raleigh Technium, and reading philosophical fiction.
 
