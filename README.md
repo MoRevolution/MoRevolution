@@ -23,7 +23,7 @@ Off-screen life: climbing, cycling, reading (mostly philosophical fiction), and 
   * A huge shoutout to [Qalc](https://qalculate.github.io/) (best calculator hands down), [zoxide](https://github.com/ajeetdsouza/zoxide) (controversial, I know), and [fzf](https://github.com/junegunn/fzf).
   
   ### GitHub Stats
-  I have a job, so I can't the garden all green sadly :(
+  I have a job, so I can't make the garden all green sadly :(
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=morevolution&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
   </p>
@@ -34,6 +34,3 @@ Off-screen life: climbing, cycling, reading (mostly philosophical fiction), and 
   </p>
 
 </details>
-
-
-[WashU]: https://www.google.com/search?q=washu
