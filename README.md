@@ -1,6 +1,6 @@
 ## Hi there, I'm Motti 👋 
 
-🎓 Senior @ [WashU] | Dev Tools @ Xbox, Analytics Infra @ Deere
+🎓 Senior @ WashU | Dev Tools @ Xbox, Analytics Infra @ Deere
 
 I enjoy building data/ML infra and dev tools that are reliable *and* fun to use.  
 
