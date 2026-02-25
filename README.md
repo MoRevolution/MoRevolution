@@ -4,7 +4,7 @@
 
 I enjoy building data/ML infra and dev tools that are reliable *and* fun to use.  
 
-Off-screen life: climbing, cycling, reading (mostly philosophical fiction), and generally trying to touch some grass.
+When I'm not staring at a screen, I enjoy climbing, cycling, reading (mostly philosophical fiction), and generally trying to touch some grass.
 
 <details>
   <summary>Extra Goodies (Click Me!!)</summary>
