@@ -14,7 +14,7 @@ When I'm not staring at a screen, I climb, bike, and read — [here is my Goodre
 
 anything by [astral](https://astral.sh/) (uv & ty are 🔥) · [nushell](https://www.nushell.sh/) · [zoxide](https://github.com/ajeetdsouza/zoxide) · [fzf](https://github.com/junegunn/fzf) · [raycast](https://www.raycast.com/) · [Qalc](https://qalculate.github.io/) (best calculator, not up for debate) 
 
-not a lot I built that I can share outside company walls, but I did enjoy writing this [setup script for my dev machine](https://github.com/MoRevolution/dev) in nushell.
+not a lot I built that I can share outside company walls, but I did enjoy writing this [set up script for my dev machine](https://github.com/MoRevolution/dev) in nushell.
 
 -> **github stats**
 
