@@ -4,7 +4,7 @@
 
 I enjoy building data/ML infra and dev tools that are reliable *and* fun to use.
 
-When I'm not staring at a screen, I climb, bike, and read — [here is my Goodreads](https://www.goodreads.com/user/show/125001655-morevolution) infrequently updated but trying.
+When I'm not staring at a screen, I climb, bike, and read — [here is my Goodreads](https://www.goodreads.com/user/show/125001655-morevolution), it's infrequently updated but trying.
 
 <details>
 <summary>extra goodies (click me!!)</summary>
