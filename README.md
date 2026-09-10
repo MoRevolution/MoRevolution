@@ -1,8 +1,8 @@
 ## Hi there, I'm Motti 👋
 
-🎓 Senior @ WashU | Dev Tools @ Xbox, Analytics Infra @ Deere
+I'm @ [WashU](https://www.google.com/search?client=firefox-b-1-d&q=WashU) studying CS, mostly the intersection of ML Theory, Information & Coding Theory, and Systems. 
 
-I enjoy building data/ML infra and dev tools that are reliable *and* fun to use.
+I like building infra and dev tools that are reliable *and* fun to use, especially when they help someone feel more excited about their work.
 
 When I'm not staring at a screen, I climb, bike, and read — [here is my Goodreads](https://www.goodreads.com/user/show/125001655-morevolution), it's infrequently updated but trying.
 
