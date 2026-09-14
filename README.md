@@ -1,8 +1,8 @@
 ## Hi there, I'm Motti 👋
 
-I'm @ [WashU](https://www.google.com/search?client=firefox-b-1-d&q=WashU) studying CS, mostly the intersection of ML Theory, Information & Coding Theory, and Systems. 
+I'm @ [WashU](https://www.google.com/search?client=firefox-b-1-d&q=WashU) studying CS, mostly ML theory & Systems. 
 
-I like building infra and dev tools that are reliable *and* fun to use, especially when they help someone feel more excited about their work.
+I enjoy building infra and dev tools for people — I get a lot of motivation from helping someone feel more excited about their work.
 
 When I'm not staring at a screen, I climb, bike, and read — [here is my Goodreads](https://www.goodreads.com/user/show/125001655-morevolution), it's infrequently updated but trying.
 
