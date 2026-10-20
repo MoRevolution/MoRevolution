@@ -11,7 +11,7 @@ When I'm not staring at a screen, I climb, bike, and read — [here is my Goodre
 <br>
 
 - **cool reads**  
-  i try to save most of the articles I read on a page in [Raindrop.io](https://raindrop.io/morevolution/stuff-i-ve-loved-68356925) — here are some of my favorites since I started keeping track (or that i remembered to add there lol).
+  i try to save most of the articles I read on a page in [Raindrop.io](https://morevolution.raindrop.page/stuff-i-ve-loved-68356925) — here are some of my favorites since I started keeping track (or that i remembered to add there lol).
 
 - **tools i enjoy a lot**
 
