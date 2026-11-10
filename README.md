@@ -8,16 +8,14 @@ When I'm not staring at a screen, I climb, bike, and read — [here is my Goodre
 
 <details>
 <summary>extra goodies (click me!!)</summary>
-<br>
-
+  
 - **cool reads**  
-  i try to save most of the articles I read on a page in [Raindrop.io](https://morevolution.raindrop.page/stuff-i-ve-loved-68356925) — here are some of my favorites since I started keeping track (or that i remembered to add there lol).
-
+  i try to save most of the articles I read on a page in [Raindrop.io](https://morevolution.raindrop.page/stuff-i-ve-loved-68356925) — linked are some of my favorites
+  
 - **tools i enjoy a lot**
-
-  anything by [astral](https://astral.sh/) (uv & ty are 🔥) · [nushell](https://www.nushell.sh/) · [zoxide](https://github.com/ajeetdsouza/zoxide) · [fzf](https://github.com/junegunn/fzf) · [raycast](https://www.raycast.com/) · [Qalc](https://qalculate.github.io/) (best calculator, not up for debate) 
-
-  sadly, most of what i've build can't be shared outside company walls, but I did enjoy writing this [setup script for my dev machine](https://github.com/MoRevolution/dev) in nushell
+  anything by [astral](https://astral.sh/) (uv & ty are 🔥) · [nushell](https://www.nushell.sh/) · [zoxide](https://github.com/ajeetdsouza/zoxide) · [fzf](https://github.com/junegunn/fzf) · [raycast](https://www.raycast.com/) · [Qalc](https://qalculate.github.io/) (best calculator, not up for debate)
+  
+  i made this [setup script for my dev machine](https://github.com/MoRevolution/dev) in nushell pre-opus4.6...had lots of fun building it but no one cares about local envs now 😔
 
 - **github stats**
 
